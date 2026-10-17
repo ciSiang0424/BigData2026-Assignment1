@@ -1,0 +1,4 @@
+layer,module,weight_shape,num_singular_values,total_energy,min_rank_50,cumulative_at_min_rank
+0,model.layers.0.self_attn.q_proj,"(2048, 2048)",2048,5703.2626953125,62,0.5017005801200867
+7,model.layers.7.self_attn.q_proj,"(2048, 2048)",2048,2917.931396484375,120,0.5020100474357605
+15,model.layers.15.self_attn.q_proj,"(2048, 2048)",2048,2607.10986328125,84,0.5011540651321411
